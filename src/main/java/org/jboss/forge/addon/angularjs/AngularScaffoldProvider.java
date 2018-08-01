@@ -99,7 +99,7 @@ public class AngularScaffoldProvider implements ScaffoldProvider
    @Override
    public String getName()
    {
-      return "AngularJS";
+      return "Angular2";
    }
 
    @Override

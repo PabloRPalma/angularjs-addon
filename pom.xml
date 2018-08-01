@@ -6,7 +6,7 @@
       <artifactId>jboss-parent</artifactId>
       <version>20</version>
    </parent>
-   <groupId>org.jboss.forge.addon</groupId>
+   <groupId>org.jboss.forge.addon2</groupId>
    <artifactId>angularjs</artifactId>
    <version>2.1.8-SNAPSHOT</version>
    <properties>
